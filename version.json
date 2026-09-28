@@ -1,5 +1,5 @@
 {
-  "version": "2.9.0",
+  "version": "3.0.0",
   "releaseDate": "2026-09-28",
   "title": "KlikPOS Enterprise v2.9.0 - Dashboards Visuales Interactivos, Gráficos Circulares de Rentabilidad, Cobros y Top Productos",
   "notes": [
@@ -10,7 +10,7 @@
     "Display Digital Mockup de Caja LED/LCD y buscador inteligente de imágenes Google con eliminación de fondo blanco.",
     "Sincronización en la nube con Firestore y compilación nativa de alta fidelidad para Android y Windows Desktop."
   ],
-  "windowsUrl": "https://github.com/klikposcloud-svg/klikpos-releases/releases/download/v2.9.0/KlikPOS_Desktop_Full_Setup.exe",
-  "androidUrl": "https://github.com/klikposcloud-svg/klikpos-releases/releases/download/v2.9.0/KlikPOS_Movil_Full.apk",
+  "windowsUrl": "https://github.com/klikposcloud-svg/klikpos-releases/releases/download/v3.0.0/KlikPOS_Desktop_Full_Setup.exe",
+  "androidUrl": "https://github.com/klikposcloud-svg/klikpos-releases/releases/download/v3.0.0/KlikPOS_Movil_Full.apk",
   "mandatory": true
 }
