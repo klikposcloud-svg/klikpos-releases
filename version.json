@@ -1,5 +1,5 @@
 {
-  "version": "3.0.17",
+  "version": "3.0.18",
   "releaseDate": "2026-10-07",
   "title": "KlikPOS Suite v3.0.17 - Certificación Limpia Google Play Protect, Eliminación de Servicio de Notificaciones y Máxima Compatibilidad",
   "notes": [
@@ -8,7 +8,7 @@
     "Preservación de Identidad Street Food: Logo oficial 'Klik' en Negro Pizarra (#0f172a), 'POS' y 'Street Food' en Rojo Enérgico (#ef4444) y cambio de tema instantáneo (0ms).",
     "Cero Regresiones: Compresión por hardware de cámara (createImageBitmap) y persistencia de onboarding completamente blindados."
   ],
-  "windowsUrl": "https://github.com/klikposcloud-svg/klikpos-releases/releases/download/v3.0.17/KlikPOS_Desktop_Full_Setup.exe",
-  "androidUrl": "https://github.com/klikposcloud-svg/klikpos-releases/releases/download/v3.0.17/KlikPOS_Movil_Full.apk",
+  "windowsUrl": "https://github.com/klikposcloud-svg/klikpos-releases/releases/download/v3.0.18/KlikPOS_Desktop_Full_Setup.exe",
+  "androidUrl": "https://github.com/klikposcloud-svg/klikpos-releases/releases/download/v3.0.18/KlikPOS_Movil_Full.apk",
   "mandatory": false
 }
