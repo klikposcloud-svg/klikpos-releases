@@ -1,5 +1,5 @@
 {
-  "version": "3.0.23",
+  "version": "3.0.24",
   "releaseDate": "2026-10-11",
   "title": "KlikPOS Suite v3.0.23 - Blindaje de Modo Evaluación y Activación Estricta por Keygen",
   "notes": [
@@ -7,7 +7,7 @@
     "Insignias de Alto Contraste en Pestañas: Conteo de pedidos con indicador en blanco puro (#ffffff) sobre píldora profunda (ratio 21:1 WCAG AAA) para máxima legibilidad exterior.",
     "Compilación Integral de Instaladores y APKs: Distribución sincronizada para Desktop Windows, Android Street y Móvil Full."
   ],
-  "windowsUrl": "https://github.com/klikposcloud-svg/klikpos-releases/releases/download/v3.0.23/KlikPOS_Desktop_Full_Setup.exe",
-  "androidUrl": "https://github.com/klikposcloud-svg/klikpos-releases/releases/download/v3.0.23/KlikPOS_Movil_Full.apk",
+  "windowsUrl": "https://github.com/klikposcloud-svg/klikpos-releases/releases/download/v3.0.24/KlikPOS_Desktop_Full_Setup.exe",
+  "androidUrl": "https://github.com/klikposcloud-svg/klikpos-releases/releases/download/v3.0.24/KlikPOS_Movil_Full.apk",
   "mandatory": false
 }
