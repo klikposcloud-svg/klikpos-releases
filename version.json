@@ -1,14 +1,15 @@
 {
-  "version": "3.0.25",
-  "releaseDate": "2026-10-18",
-  "title": "KlikPOS Suite v3.0.25 - Rebranding Klikpos Cloud, Alto Contraste WCAG AAA y Ergonomía POS",
+  "version": "3.0.27",
+  "releaseDate": "2026-11-01",
+  "title": "Kliko Business Full v3.0.27 (Oficial) - Balanza COM, 368 Productos, Margen BCV e Imprenta Digital SENIAT",
   "notes": [
-    "Rebranding Oficial a Klikpos Cloud: Sincronización en la nube renombrada y unificada bajo la marca maestra Klikpos Cloud.",
-    "Corrección de Contraste WCAG AAA en Licenciamiento: Botón y enlaces de WhatsApp con fondo blanco blindado y tipografía oscura profunda (#0f172a, ratio 18.7:1), eliminando texto blanco sobre blanco.",
-    "Optimización Ergonómica de Catálogo POS: Contenedores con auto-fill responsivo de 6 a 8 columnas e imágenes completas centradas con ajuste contain, maximizando la visibilidad de productos.",
-    "Barra de Acciones Compacta: Reducción de altura a 30px en barra superior para aprovechar el espacio vertical de venta."
+    "Balanza Digital COM (RS-232): Lectura al gramo en tiempo real integrada al Punto de Venta.",
+    "368 Productos Precargados: Catálogo completo con fotos reales, marcas y códigos de barras.",
+    "Auditoría Financiera y Margen Real: Tablero P&L con margen sobre ventas y costo de reposición a tasa oficial BCV.",
+    "Facturación Electrónica e Imprentas Digitales SENIAT: Integración API con The Factory HKA, GuruSoft, Alanet y providencia SNAT/2014/0032.",
+    "Temas Oficiales: Warm Charcoal y Smoky Glass de alto contraste ergonómico."
   ],
-  "windowsUrl": "https://github.com/klikposcloud-svg/klikpos-releases/releases/download/v3.0.25/Kliko_Desktop_Full_Setup.exe",
+  "windowsUrl": "https://github.com/klikposcloud-svg/klikpos-releases/releases/download/v3.0.27/Kliko_Business_Full_Setup.exe",
   "androidUrl": "https://github.com/klikposcloud-svg/klikpos-releases/releases/download/v3.0.25/KlikPOS_Movil_Full.apk",
   "mandatory": false
 }
