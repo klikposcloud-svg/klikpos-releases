@@ -1,15 +1,14 @@
 {
-  "version": "3.0.27",
-  "releaseDate": "2026-11-01",
-  "title": "Kliko Business Full v3.0.27 (Oficial) - Balanza COM, 368 Productos, Margen BCV e Imprenta Digital SENIAT",
+  "version": "3.0.28",
+  "releaseDate": "2026-11-02",
+  "title": "Kliko Street Food & POS v3.0.28 - Edición Móvil Actualizada",
   "notes": [
-    "Balanza Digital COM (RS-232): Lectura al gramo en tiempo real integrada al Punto de Venta.",
-    "368 Productos Precargados: Catálogo completo con fotos reales, marcas y códigos de barras.",
-    "Auditoría Financiera y Margen Real: Tablero P&L con margen sobre ventas y costo de reposición a tasa oficial BCV.",
-    "Facturación Electrónica e Imprentas Digitales SENIAT: Integración API con The Factory HKA, GuruSoft, Alanet y providencia SNAT/2014/0032.",
-    "Temas Oficiales: Warm Charcoal y Smoky Glass de alto contraste ergonómico."
+    "App 100% Gratuita e Ilimitada: Retirado el programa de embajadores para máxima simplicidad.",
+    "Respaldo Kliko Cloud: Sincronización continua de inventario, ventas y cierres de turno por $5/mes.",
+    "Detección precisa de versiones móviles: Solo notifica actualizaciones correspondientes a la app.",
+    "Optimización de rendimiento táctil y cálculo instantáneo de vueltos en dólares y bolívares a tasa oficial BCV."
   ],
   "windowsUrl": "https://github.com/klikposcloud-svg/klikpos-releases/releases/download/v3.0.27/Kliko_Business_Full_Setup.exe",
-  "androidUrl": "https://github.com/klikposcloud-svg/klikpos-releases/releases/download/v3.0.25/KlikPOS_Movil_Full.apk",
+  "androidUrl": "https://github.com/klikposcloud-svg/klikpos-releases/releases/download/v3.0.28/KlikPOS_Street.apk",
   "mandatory": false
 }
