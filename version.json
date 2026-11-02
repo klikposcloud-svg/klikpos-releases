@@ -1,14 +1,17 @@
 {
-  "version": "3.0.28",
+  "version": "3.0.29",
+  "buildNumber": 29,
   "releaseDate": "2026-11-02",
-  "title": "Kliko Street Food & POS v3.0.28 - Edición Móvil Actualizada",
+  "title": "Kliko Street Food & POS v3.0.29 - Actualización Disponible",
   "notes": [
-    "App 100% Gratuita e Ilimitada: Retirado el programa de embajadores para máxima simplicidad.",
-    "Respaldo Kliko Cloud: Sincronización continua de inventario, ventas y cierres de turno por $5/mes.",
-    "Detección precisa de versiones móviles: Solo notifica actualizaciones correspondientes a la app.",
-    "Optimización de rendimiento táctil y cálculo instantáneo de vueltos en dólares y bolívares a tasa oficial BCV."
+    "Facturación Fiscal SENIAT Oficial y Ticket Mixto en tiempo real.",
+    "App 100% Gratuita e Ilimitada: Sin expiración ni restricciones.",
+    "Respaldo Kliko Cloud opcional ($5/mes).",
+    "Optimización táctil de cobro y cálculo instantáneo de vuelto en divisas y bolívares."
   ],
+  "androidUrl": "https://github.com/klikposcloud-svg/klikpos-releases/releases/download/v3.0.29/KlikPOS_Street.apk",
+  "apkUrl": "https://github.com/klikposcloud-svg/klikpos-releases/releases/download/v3.0.29/KlikPOS_Street.apk",
+  "fallbackApkUrl": "https://github.com/klikposcloud-svg/klikpos-releases/releases/download/v3.0.28/KlikPOS_Street.apk",
   "windowsUrl": "https://github.com/klikposcloud-svg/klikpos-releases/releases/download/v3.0.27/Kliko_Business_Full_Setup.exe",
-  "androidUrl": "https://github.com/klikposcloud-svg/klikpos-releases/releases/download/v3.0.28/KlikPOS_Street.apk",
   "mandatory": false
 }
